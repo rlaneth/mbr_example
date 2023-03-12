@@ -1,0 +1,12 @@
+# Compiled files
+bin/*
+
+# Miscellaneous
+*.swp
+*.log
+*.bak
+*.tmp
+.DS_Store
+
+# Retain .gitkeep
+!.gitkeep
